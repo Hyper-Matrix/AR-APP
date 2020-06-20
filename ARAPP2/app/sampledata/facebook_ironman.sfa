@@ -1,0 +1,208 @@
+{
+  materials: [
+    {
+      name: 'Face',
+      parameters: [
+        {
+          baseColorFactor: [
+            0.87451000000000001,
+            0.75294099999999997,
+            0.47450999999999999,
+            1,
+          ],
+        },
+        {
+          baseColor: null,
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0.93999999999999995,
+        },
+        {
+          roughnessFactor: 0.29999999999999999,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: 'Head',
+      parameters: [
+        {
+          baseColorFactor: [
+            0.61960800000000005,
+            0.070587999999999998,
+            0.070587999999999998,
+            1,
+          ],
+        },
+        {
+          baseColor: null,
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 0.44,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          emissive: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+    {
+      name: 'Eyes',
+      parameters: [
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColor: null,
+        },
+        {
+          diffuseColorFactor: null,
+        },
+        {
+          diffuseColor: null,
+        },
+        {
+          normal: null,
+        },
+        {
+          metallicFactor: 0,
+        },
+        {
+          roughnessFactor: 0,
+        },
+        {
+          specularFactor: null,
+        },
+        {
+          glossinessFactor: null,
+        },
+        {
+          specularGlossiness: null,
+        },
+        {
+          specularGlossinessCalculation: null,
+        },
+        {
+          metallicRoughness: null,
+        },
+        {
+          occlusion: null,
+        },
+        {
+          emissiveFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          emissive: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/gltf_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/facebook_ironman.gltf',
+    name: 'facebook_ironman',
+    recenter: 'root',
+    scale: 0.32472099999999998,
+  },
+  version: '0.54:2',
+}
